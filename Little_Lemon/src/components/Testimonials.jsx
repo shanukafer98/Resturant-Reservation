@@ -10,9 +10,8 @@ export default function Testimonials() {
                     <p className="reviewer-rating">4.3/5</p>
                 </div>
                 <div className="review-text">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec massa massa, 
-                        semper sed enim at, faucibus mattis lorem. Donec vehicula, leo ut auctor ullamcorper, 
-                        diam tortor dignissim velit, ac iaculis libero lacus non diam. </p>
+                    <p>
+Little Lemon Restaurant: A cozy culinary haven where every dish surprises with its burst of flavor and charm. From signature lemon-infused seafood to delectable desserts, it's a delightful escape for the taste buds. </p>
                 </div>
             </div>
             <div className="testimonial">
@@ -22,9 +21,8 @@ export default function Testimonials() {
                     <p className="reviewer-rating">4.7/5</p>
                 </div>
                 <div className="review-text">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec massa massa, 
-                        semper sed enim at, faucibus mattis lorem. Donec vehicula, leo ut auctor ullamcorper, 
-                        diam tortor dignissim velit, ac iaculis libero lacus non diam. </p>
+                    <p>
+Little Lemon Restaurant: A petite paradise of taste sensations, where each dish offers a tantalizing journey through culinary excellence and cozy ambiance.</p>
                 </div>
             </div>
             <div className="testimonial">
@@ -34,9 +32,7 @@ export default function Testimonials() {
                     <p className="reviewer-rating">4.5/5</p>
                 </div>
                 <div className="review-text">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec massa massa, 
-                        semper sed enim at, faucibus mattis lorem. Donec vehicula, leo ut auctor ullamcorper, 
-                        diam tortor dignissim velit, ac iaculis libero lacus non diam. </p>
+                    <p>Little Lemon Restaurant: A charming escape with a concise yet impressive menu, delivering culinary delights that are both innovative and comforting. The cozy ambiance and attentive staff make it a gem for those craving exceptional dining experiences.</p>
                 </div>
             </div>
         </div>
